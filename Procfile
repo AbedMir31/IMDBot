@@ -1,1 +1,2 @@
-"web: python server.py" 
+worker: tweet.py
+web: python server.py
